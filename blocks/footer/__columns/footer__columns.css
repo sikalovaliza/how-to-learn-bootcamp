@@ -1,0 +1,8 @@
+.footer__columns {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-basis: 711px;
+    position: relative;
+  }
