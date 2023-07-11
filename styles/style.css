@@ -542,10 +542,10 @@
   justify-content: space-between;
 }
 
-.resources__link-logo {
+.resources__link {
+  display: inline-block;
   width: 270px;
   height: 38px;
-  object-fit: none;
 }
 
 .footer {
