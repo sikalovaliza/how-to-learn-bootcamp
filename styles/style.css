@@ -234,6 +234,7 @@
   margin-top: 50px;
   display: flex;
   justify-content: center;
+  border: none;
 }
 
 .video__absolute {
