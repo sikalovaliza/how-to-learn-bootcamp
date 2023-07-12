@@ -4,5 +4,6 @@
     margin-top: 50px;
     display: flex;
     justify-content: center;
-    border: none;
-  }
+    bottom: -50px;
+    position: relative;
+}
